@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Abdelrahman-MAM-Mansour
-- 👀 I’m interested in Robotics and App developing
-- 🌱 I’m currently learning Robotic engineering in the university of Essex
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Master Student: Msc Computer Science Specialization in Artifitial Intelligence and Machine Learning
 - 📫 How to reach me abdelrahman0210@gmail.com
 
 <!---
